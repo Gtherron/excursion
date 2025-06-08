@@ -1,11 +1,26 @@
 body{ 
-background-color: black;
-text-align: center;
-font-family: Verdan
-a, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-header--main {
-font-weight: normal;
-font-size: 50px;
+
+
+    .header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color:aliceblue
+
 }
+
+
+    
+    .link--cta {
+
+        font-size: 16px;
+        color: aquamarine;
+}
+
+
+
+
