@@ -12,7 +12,6 @@ body{
     font-size: 50px;
     color: #fff;
     
-    
 }
     
     .header--secondary {
@@ -29,11 +28,18 @@ body{
 }
 
 /* LINKS */
+
+
     .link--cta {
     font-size: 16px;
     color: aquamarine;
 }
 
+/* FOOTER */
 
+    .footer--copyright {
+    font-size: 21px;
+    color:greenyellow;
+    text-align: right;
 
-
+}
